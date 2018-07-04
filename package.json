@@ -1,0 +1,25 @@
+{
+  "name": "nano-editor",
+  "version": "0.0.1",
+  "description": "Basic app console to create files with fs and nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamperem/nano-editor.git"
+  },
+  "author": "Gustavo Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamperem/nano-editor/issues"
+  },
+  "homepage": "https://github.com/lamperem/nano-editor#readme",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "colors": "^1.3.0",
+    "fs": "0.0.1-security",
+    "prompt": "^1.0.0"
+  }
+}
